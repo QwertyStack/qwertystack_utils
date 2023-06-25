@@ -4,8 +4,7 @@ This is a collection of utilities for [QwertyStack](https://github.com/qwertysta
 ## Utilities  🚀
 ### Logger
 The Logger class represents a logging utility that sets up a logger with color formatting and file logging.
-
-    ![output_log](https://github.com/QwertyStack/qwertystack_utils/assets/73184752/375e77eb-5e2a-4470-b916-f322a4519831)
+    ![output_log](https://github.com/QwertyStack/qwertystack_utils/assets/73184752/2c589087-8f81-4d42-ae43-696c63233a8e)
 
 Usage:
 ```python
